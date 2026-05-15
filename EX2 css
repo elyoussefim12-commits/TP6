@@ -1,0 +1,32 @@
+.container{
+ max-width: 400px;
+ margin: 50px auto;
+ padding: 20px;
+ border: 1px  solid #ccc;
+}
+h1{
+    text-align: center;
+    color: #333;
+}
+form{
+    display: flex;
+}
+input{
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border: radius 4px ;
+}
+ul{
+    background: #fff;
+    border-bottom: 1px solid #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    column-height: rgb(16, 147, 223); 
+    padding: 20px;
+}
