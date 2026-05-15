@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TO-do-list</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>list de taches</h1>
+    <form id="form">
+
+
+      <input type="text" id="input">
+        <button type="submit" id="add">Ajouter</button>
+    </form>
+    <ul id="list"></ul>
+    <script src="script.js"></script>
+  </div>
+</body>
+</html>
