@@ -1,0 +1,9 @@
+let mydiv=document.getElementById("parag");
+let text=document.getElementById("text");
+
+text.style.backgroundColor="lightblue";
+text.style.textAlign="center";
+
+mydiv.addEventListener("click",function(){
+    text.innerHTML="le text a ete modifie";
+})
