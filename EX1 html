@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TP6</title>
+</head>
+<body>
+<div id="parag">
+    <p id="text">ceci est un paragraphe</p>
+</div>
+    <script src="script.js"></script>
+</body>
+</html>
